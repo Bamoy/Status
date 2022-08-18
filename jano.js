@@ -42,7 +42,7 @@ jano.on("ready", () => {
 
   setInterval(function() {
 
-    jano.login("")
+
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
 
     jano.user.setActivity(STREAMING, {
@@ -56,3 +56,5 @@ jano.on("ready", () => {
   }, 2000);
 
 });
+
+jano.login("")
