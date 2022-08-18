@@ -1,0 +1,31 @@
+{
+
+  "version": "2.1.0",
+
+  "main": "jano.js",
+
+  "scripts": {
+
+    "start": "node jano.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.4.2",
+
+    "express": "^4.17.1",
+
+    "ytdl-core": "^4.9.1",
+
+    "discord.js-v12": "^12.5.3"
+
+  },
+
+  "engines": {
+
+    "node": "12.x"
+
+  }
+
+}
