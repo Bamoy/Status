@@ -57,4 +57,4 @@ jano.on("ready", () => {
 
 });
 
-jano.login("")
+jano.login("OTkyNTExNTgwMzQyMzI5Mzg0.GKKSnF.a5-ibJN_nvvzVyMANkMna0-oeRDAmD5J756c_E")
